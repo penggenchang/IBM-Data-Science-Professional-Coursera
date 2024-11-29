@@ -1,2 +1,2 @@
 # IBM-Data-Science-Professional-Coursera
-This is to upload my work for IBM data science professional in Coursera
+This is to upload my capstone project for Course 10, Coursera. IBM-Data-Science-Professional.
