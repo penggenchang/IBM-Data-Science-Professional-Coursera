@@ -1,8 +1,8 @@
 ## IBM-Data-Science-Professional-Coursera![Coursera](https://img.shields.io/badge/Coursera-Certificate-blue)
 ### This is to upload my work for [IBM Data Science Professional](https://www.coursera.org/professional-certificates/ibm-data-science) in Coursera:
 
-### From Course 5 to Course 10, each Final Assignment is organized into the <ins>Branch</ins>. The readers are welcome to go into each individual <ins>Branch</ins>. They are:
- - Course 5: Python Project of Data Science
+### From Course 5 to Course 10, each Final Assignment is organized into the <ins>Branches</ins>. The readers are welcome to go into each individual <ins>Branch</ins>. They are:
+ - [Course 5](https://github.com/penggenchang/IBM-Data-Science-Professional-Coursera/tree/Course-5-Project): Python Project of Data Science 
  - Course 6: Databases and SQL for Data Science with Python
  - Course 7: Data Analysis with Python
  - Course 8: Data Visualization with Python
